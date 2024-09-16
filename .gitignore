@@ -1,5 +1,5 @@
 /.vscode
+/servlet/application.properties
 /servlet/.vscode
 /servlet/target
-/servlet/application.properties
 /servlet/pom.xml
